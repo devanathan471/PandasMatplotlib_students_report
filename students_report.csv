@@ -1,0 +1,4 @@
+Subjects,Sub_id,Students,Grades,crt_score,testdate,month,month_name,day_name
+History,1,Alex,97,92,2026-10-10,10,October,Saturday
+Music,2,Ben,87,82,2026-10-11,10,October,Sunday
+Arts,3,Cavin,77,72,2026-10-12,10,October,Monday
